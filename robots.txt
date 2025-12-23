@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://my-first-web.netlify.app/sitemap.xml
